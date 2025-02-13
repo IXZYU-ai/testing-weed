@@ -221,7 +221,7 @@ gui.blazedLoader:Destroy()
             game:GetService("StarterGui"):SetCore("SendNotification",{
                 Title = "Weed", -- Required
                 Text = NotiINFO, -- Required
-                Icon = "rbxassetid://15115954522" -- Optional
+                Icon = "rbxassetid://17004708764" -- Optional
             })
         else
             if getgenv().NotiMode == "Xaxa" then
